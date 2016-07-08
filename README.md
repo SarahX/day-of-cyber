@@ -5,4 +5,4 @@ I have a hunch that the NSA/partners hid some special code in part of their webs
 
 I wish there was syntax highlighting in GitHub....
 
-The first part obfuscated and appears to be code for optimizng the site for different user agents.
+The first part is obfuscated and appears to be code for optimizng the site for different user agents.
